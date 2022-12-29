@@ -8,13 +8,13 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by nadia pourazizi
+-🙂 Developed by nadia pourazizi
 - Created - 2022-11-26
 
 - Technologies Used - Html , css 
 
 - Hooks Used : useState 
 
-- Role - Frontend
+-💻 Role - Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/nadiaacodes) and [linkedin](https://www.linkedin.com/in/nadia pourazizi)
